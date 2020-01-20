@@ -1,2 +1,2 @@
 # PROP_Compressor
-PROP subject, final project
+UPC FIB - Programming Projects, final project
